@@ -33,7 +33,7 @@
   "dependencies": {
     "classnames": "^2.5.1",
     "lodash.range": "^3.2.0",
-    "moment-jalaali": "^0.10.0",
+    "moment-jalaali": "^0.10.4",
     "moment-range": "^4.0.2",
     "prop-types": "^15.8.1",
     "rc-trigger": "3.0.0",
